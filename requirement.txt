@@ -1,0 +1,5 @@
+this is run application:- 
+should have emoji
+sould have search option
+sould have colors
+should be viberant.
